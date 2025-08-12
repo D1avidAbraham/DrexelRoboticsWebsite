@@ -25,6 +25,11 @@ What information do I need to store
 how it relates to the other data 
 what those relationships look like
 
+users data set 
+their name a picture and their role
+
+
+
 
 D. 
 nail a MVP (minimum viable product)
