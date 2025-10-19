@@ -18,6 +18,7 @@ write down what a user should be able to do and how the app is going to work for
 - The User should be able to view the current members and Eboard. The Admin should be able to edit this.
 - The User should be able to the outreach program. The Admin should be able to edit. 
 - The User should be able to view the education page. 
+- The education pages should be ".md" files that are render and can be easly changed 
 C. 
 Define data models 
 Think about all the data that the application is going to have 
@@ -56,3 +57,11 @@ overall development process
     - Frontend interface 
 	    - Connect to backend
 	- project interaction 
+
+
+https://www.youtube.com/@PedroTechnologies/featured
+https://www.youtube.com/watch?v=6jQdZcYY8OY&ab_channel=PedroTech
+https://www.youtube.com/watch?v=zqk3C4eZAmc&ab_channel=AliAlaa
+https://www.youtube.com/watch?v=H_kSd4kn0E8&ab_channel=PedroTech
+
+https://catalyst.tailwindui.com/docs/navbar
